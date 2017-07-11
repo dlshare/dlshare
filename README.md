@@ -7,9 +7,10 @@ http://blog.csdn.net/yangyangzhang1990/article/details/45869215
 #### 2.上传源码、提交更新到github
 分享中若遇到问题，查看一下代码版本管理工具是否为git如下图
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/version_control_by_git.png)
-使用AndroidStudio创建好一个准备分享的项目，按照下面操作步骤成功将源代码上传到github，<br>
-并且提交成功，注意使用git作为，更新成功，可以进行下一步。<br>
+使用AndroidStudio创建好一个准备分享的项目，按照下面操作步骤
 http://www.jianshu.com/p/d995d263549c
+1. 成功将源代码上传到github
+2. 提交修改成功，更新成功
 #### 3.Mac 安装jdk1.8.0_131
 为什么非要安装jdk8呢？因为接下来会使用bintray-release插件来发布自己的lib库到Jcenter，<br>
 在执行命令提交的时候报错：UnsupportedClassVersionError
@@ -21,6 +22,14 @@ http://www.jianshu.com/p/3291de46f3ff
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 4. 成功安装
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/idk1.8.0_131_installed.png)
-#### 4.
-#### 5.
-#### 6.
+#### 4. 使用bintray-release上传library到Jcenter
+bintray-release项目github地址:
+https://github.com/novoda/bintray-release
+Android快速发布开源项目到Jcenter
+http://blog.csdn.net/lmj623565791/article/details/51148825
+#### 5. 编写README.md介绍项目
+http://blog.csdn.net/kaitiren/article/details/38513715
+#### 6. 中途遇到的坑
+1. 
+2. 
+3. 
