@@ -25,7 +25,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 #### 4. 使用bintray-release上传library到Jcenter
 bintray-release项目github地址:
 https://github.com/novoda/bintray-release
-Android快速发布开源项目到Jcenter
+<br>Android快速发布开源项目到Jcenter
 http://blog.csdn.net/lmj623565791/article/details/51148825
 #### 5. 编写README.md介绍项目
 http://blog.csdn.net/kaitiren/article/details/38513715
