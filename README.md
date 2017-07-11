@@ -1,5 +1,5 @@
 # dlshare
-#### Here I com, I am `dlshare`.
+#### Here I come, I am `dlshare`.
 一个用于介绍`项目分享经验`及过程中遇到的坑的地方，教你快速实现将`你的lib`分享到`Jcenter`。
 #### 1.修改github名
 准备在github上分享自己的代码了，准备让大家认识自己了，github名字不好听怎么办？去改。<br>
