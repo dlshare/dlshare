@@ -29,8 +29,8 @@ https://github.com/novoda/bintray-release
 http://blog.csdn.net/lmj623565791/article/details/51148825
 #### 5. 编写README.md介绍项目
 http://wowubuntu.com/markdown/basic.html
-http://wowubuntu.com/markdown/index.html
-http://blog.csdn.net/kaitiren/article/details/38513715
+<br>http://wowubuntu.com/markdown/index.html
+<br>http://blog.csdn.net/kaitiren/article/details/38513715
 #### 6. 中途遇到的坑
 1. 
 2. 
