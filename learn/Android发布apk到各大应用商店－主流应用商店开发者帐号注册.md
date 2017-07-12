@@ -41,7 +41,7 @@ http://mi.talkingdata.com/app-rank.html
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/huawei.png)
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/xiaomi.png)
 
-更多详细信息如下<br>
+更多`企业开发者帐号`注册所需详细信息如下<br>
  腾讯：
  1.公司全称
  2.营业执照注册号
@@ -55,9 +55,6 @@ http://mi.talkingdata.com/app-rank.html
  4.营业执照注册号
  5.注册地址
  6.其他联系人信息
- 
- 百度手机助手：
- 未知
  
  小米：
  1.公司名称
@@ -76,8 +73,5 @@ http://mi.talkingdata.com/app-rank.html
  3.企业地址
  4.实名认证附件，企业执照／税务登记／组织机构代码
  5.其他联系人信息
- 
- google play
- 未知
  
  
