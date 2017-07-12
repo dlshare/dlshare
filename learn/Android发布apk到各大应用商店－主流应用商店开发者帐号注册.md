@@ -1,4 +1,4 @@
-Android主流应用商店开发者帐号注册
+Android主流应用商店开发者帐号注册(经验、总结)
 =======
 <br>主流应用商店排行<br>
 http://mi.talkingdata.com/app-rank.html
@@ -24,6 +24,12 @@ http://mi.talkingdata.com/app-rank.html
 1. 华为开发者联盟：http://developer.huawei.com/devunion/ui/devplan.html#
 2. 帐号注册：http://developer.huawei.com/consumer/cn/devunion/openPlatform/html/regLogin_smrz.html
 3. 发布应用：http://developer.huawei.com/devunion/ui/devplan.html#
+#### 阿里应用分发平台
+注意：阿里应用分发」整合了豌豆荚、阿里九游、PP助手、UC应用商店、神马搜索，并联合YunOS应用商店等应用分发平台，实现全流量矩阵布局。「阿里应用分发开放平台」实现「一点接入，全平台分发」，只要接入一个开放平台就可以共享亿级平台海量资源。
+1. 阿里应用分发平台：http://open.uc.cn/
+2. 成为开发者帐号：http://aliapp.open.uc.cn/selectDevType
+3. 发布应用：http://aliapp.open.uc.cn/selectDevType
+
 #### Google Play Store
 注意：以下操作请翻墙
 1. 注册您的Google帐号：https://accounts.google.com/SignUp?service=mail&hl=zh-CN&continue=http%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-zh-CN
@@ -31,6 +37,8 @@ http://mi.talkingdata.com/app-rank.html
 3. 发布应用：https://play.google.com/apps/publish/signup/
  
 注册所需信息总结：<br>
+请`慎重选择`注册为`个人开发者`还是`企业开发者`，因为一般情况下是不允许你再进行修改的
+![image](https://github.com/dlshare/dlshare/blob/master/screenshot/ali.png)
 注册`个人开发者帐号`时，一般只需要`提供个人手持身份证扫描件`、`银行卡信息认证`即可，以小米个人开发者帐号为例<br>
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/xiaomi_more.png)
 注册`企业开发者帐号`时,所需要提供的公司信息总和如下<br>
