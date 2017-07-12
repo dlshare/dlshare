@@ -39,7 +39,7 @@ http://mi.talkingdata.com/app-rank.html
 所需信息总结：
 如果要注册上面平台的`企业开发者帐号`需要提供的公司信息如下<br>
         
-        `营业执照`、`税务登记`、`组织机构代码`、`法人代表姓名`、`法人身份证号码`、`法人身份证扫描件`
+####`营业执照`、`税务登记`、`组织机构代码`、`法人代表姓名`、`法人身份证号码`、`法人身份证扫描件`
         
 具体截图信息如下
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/huawei.png)
