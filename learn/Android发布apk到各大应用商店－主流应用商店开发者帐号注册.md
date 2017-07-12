@@ -30,8 +30,9 @@ http://mi.talkingdata.com/app-rank.html
 2. 登陆开发者后台注册成为google play开发者：https://play.google.com/apps/publish/signup/
 3. 发布应用：https://play.google.com/apps/publish/signup/
  
-注册所需信息总结：
-注册`个人开发者帐号`时，一般只需要`提供个人手持身份证扫描件`<br>
+注册所需信息总结：<br>
+注册`个人开发者帐号`时，一般只需要`提供个人手持身份证扫描件`、`银行卡信息认证`即可，以小米个人开发者帐号为例<br>
+![image](https://github.com/dlshare/dlshare/blob/master/screenshot/xiaomi_more.png)
 注册`企业开发者帐号`时,需要提供的公司信息如下<br>
         
 #### `营业执照`、`税务登记`、`组织机构代码`、`法人代表姓名`、`法人身份证号码`、`法人身份证扫描件`
