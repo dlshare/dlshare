@@ -1,14 +1,8 @@
-# dlshare
-#### Here I come, I am `dlshare`.
-Android上传apk到各大应用商店
+Android主流应用商店开发者帐号注册
 =======
-> 生成apk
-
-> 上传apk到各大应用商店
-
-<br>应用商店排行<br>
+<br>主流应用商店排行<br>
 http://mi.talkingdata.com/app-rank.html
-2017.07.12
+<br>2017.07.12
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/third_party_android_app_store.png)
 #### 腾讯应用宝
 1. 腾讯开放平台地址：http://open.qq.com/﻿
@@ -36,8 +30,9 @@ http://mi.talkingdata.com/app-rank.html
 2. 登陆开发者后台注册成为google play开发者：https://play.google.com/apps/publish/signup/
 3. 发布应用：https://play.google.com/apps/publish/signup/
  
-所需信息总结：
-如果要注册上面平台的`企业开发者帐号`需要提供的公司信息如下<br>
+注册所需信息总结：
+注册`个人开发者帐号`时，一般只需要`提供个人手持身份证扫描件`<br>
+注册`企业开发者帐号`时,需要提供的公司信息如下<br>
         
 #### `营业执照`、`税务登记`、`组织机构代码`、`法人代表姓名`、`法人身份证号码`、`法人身份证扫描件`
         
@@ -45,7 +40,7 @@ http://mi.talkingdata.com/app-rank.html
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/huawei.png)
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/xiaomi.png)
 
-更多详细信息如下`注册企业开发者帐号时`，如果只`注册个人开发者帐号`，一般`只需要提供个人手持身份证扫描件`<br>
+更多详细信息如下<br>
  腾讯：
  1.公司全称
  2.营业执照注册号
