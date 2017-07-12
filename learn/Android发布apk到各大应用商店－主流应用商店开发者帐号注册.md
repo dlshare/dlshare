@@ -37,7 +37,7 @@ http://mi.talkingdata.com/app-rank.html
 3. 发布应用：https://play.google.com/apps/publish/signup/
  
 注册所需信息总结：<br>
-请`慎重选择`注册为`个人开发者`还是`企业开发者`，因为一般情况下是不允许你再进行修改的
+请`慎重选择`注册为`个人开发者`还是`企业开发者`，因为一般情况下是不允许你再进行修改的，以阿里应用分发平台为例：
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/ali.png)
 注册`个人开发者帐号`时，一般只需要`提供个人手持身份证扫描件`、`银行卡信息认证`即可，以小米个人开发者帐号为例<br>
 ![image](https://github.com/dlshare/dlshare/blob/master/screenshot/xiaomi_more.png)
